@@ -1,6 +1,3 @@
-﻿##### Homebrew Coffee Animation Script #####
-
-
 $host.UI.RawUI.WindowTitle = "Homebrew Coffee 🍵"
 
 $wsh = New-Object -ComObject WScript.Shell
